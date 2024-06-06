@@ -6,6 +6,7 @@
     - Spring Boot,
     - Hibernate,
     - PostgreSql,
+    - Liquibase, 
     - Maven,
     - jUnit,
     - Postman,
