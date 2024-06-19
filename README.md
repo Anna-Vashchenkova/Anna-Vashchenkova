@@ -1,8 +1,9 @@
 ## 👋 Hi, I’m Anna. 
-- 🌱 I’m currently learning java.
+- 🌱 I’m learning java and QA.
   - What I can already do:
 
     - Java Core,
+    - testing theory,
     - Spring Boot,
     - Hibernate,
     - PostgreSql,
